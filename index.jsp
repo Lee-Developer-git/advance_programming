@@ -1,3 +1,4 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE HTML>
 <!--
 	Editorial by HTML5 UP
@@ -63,10 +64,10 @@
 									<ul>
 										<li><span class="opener">MY PAGE</span>
 											<ul>
-												<li><a href="mypage.html">회원정보 조회</a></li>
-												<li><a href="mypage.html">포인트 적립</a></li>
-												<li><a href="mypage.html">재능 등록</a></li>
-												<li><a href="mypage.html">공유 서류 조회</a></li>
+												<li><a href="mypage.jsp">회원정보 조회</a></li>
+												<li><a href="mypage.jsp">포인트 적립</a></li>
+												<li><a href="mypage.jsp">재능 등록</a></li>
+												<li><a href="mypage.jsp">공유 서류 조회</a></li>
 											</ul></li>
 										<li><a href="generic.html">기부 하기</a></li>
 										<li><a href="elements.html">재능 기부</a></li>

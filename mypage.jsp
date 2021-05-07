@@ -1,3 +1,4 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE HTML>
 <!--
 	Editorial by HTML5 UP
@@ -44,9 +45,9 @@
 										
 										<div class="col-12 col-2-medium">
 											<h4>포인트 조회/충전</h4>
-											<FORM method="post" action="처리 페이지.jsp"  align="left">
+											<FORM method="post" action="처리 페이지.jsp" align="left">
 											<ul class="alt">
-												<li>잔여 포인트: <%=%> point</li>
+												<li>잔여 포인트:  point</li>
 												<li>충전 포인트 
 													<input type="text" name="carnumber"  size=10 placeholder="충전 금액(원)">
 												</li>
